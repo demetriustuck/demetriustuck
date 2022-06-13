@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Demi Tuck</h1>
-<h3 align="center">A passionate Data Scientist focused on bridging tech and non-tech stakeholders</h3>
+<h3 align="center">A passionate Data Scientist/Sales Engineer focused on bridging tech and non-tech stakeholders</h3>
 
 - 🌱 I’m currently learning **Python**
 
