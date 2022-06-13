@@ -1,16 +1,7 @@
-### Hi there 👋
-
-<!--
-**demetriustuck/demetriustuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Demi Tuck</h1>
 <h3 align="center">A passionate Data Scientist focused on bridging tech and non-tech stakeholders</h3>
 
 - 🌱 I’m currently learning **Python**
-
-- 😄 Pronouns: He/Him
 
 - 📫 How to reach me **demituck@gmail.com**
 
